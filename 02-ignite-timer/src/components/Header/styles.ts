@@ -23,7 +23,7 @@ export const HeaderContainer = styled.header`
       border-bottom: 3px solid transparent;
 
       &:focus {
-        outline: transparent !important;
+        box-shadow: none;
       }
 
       &:hover {
